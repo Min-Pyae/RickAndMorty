@@ -104,8 +104,8 @@
 		F1293BFE2C6A076700B2FD68 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				F1293C0C2C6A091A00B2FD68 /* RMLocation.swift */,
 				F1293C0E2C6A092100B2FD68 /* RMCharacter.swift */,
+				F1293C0C2C6A091A00B2FD68 /* RMLocation.swift */,
 				F1293C102C6A092C00B2FD68 /* RMEpisode.swift */,
 			);
 			path = Models;
