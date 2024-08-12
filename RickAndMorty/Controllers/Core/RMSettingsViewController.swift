@@ -7,12 +7,12 @@
 
 import UIKit
 
-class RMSettingsViewController: UIViewController {
+final class RMSettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        
+        title = "Settings"
     }
 
 }
